@@ -7,6 +7,7 @@ Para inicializar o Hello World será necessário realizar os seguintes procediment
 2- Eclipse;
 	2.1- Importe a pasta "projetoSoftware" para dentro do eclipse;
 	2.2- Execute o arquivo "HelloWorldApplication" que se encontra em br.com.furb.hello.
+	2.3- Inicie a aplicação como "Java aplication".
 
 3- Após iniciado o Hello World abra o navegador e digite "localhost:8080"
 
