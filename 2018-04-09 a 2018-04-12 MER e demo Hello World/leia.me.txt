@@ -1,0 +1,13 @@
+Para inicializar o Hello World será necessário realizar os seguintes procedimentos:
+
+1- PostgreSQL 9.4;
+	1.1- Dentro do Postgres você terá que criar um banco de dados com a descrição: "helloWorld";
+
+
+2- Eclipse;
+	2.1- Importe a pasta "projetoSoftware" para dentro do eclipse;
+	2.2- Execute o arquivo "HelloWorldApplication" que se encontra em br.com.furb.hello.
+
+3- Após iniciado o Hello World abra o navegador e digite "localhost:8080"
+
+Importante: Também será necessário configurar o usuário e senha do banco de dados dentro do projeto. Onde para este caso voc~e deve acessar o arquivo "application.properties" que se encontra dentro da pasta src/main/resources/.
