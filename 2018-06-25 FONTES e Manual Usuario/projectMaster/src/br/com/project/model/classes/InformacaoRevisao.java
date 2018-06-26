@@ -17,7 +17,7 @@ import br.com.project.listener.CustomListener;
  * Reprensenta a tabela de revision log em nivel de aplicação do hibernate
  * envers
  * 
- * @author Alex
+ * @author Rodrigo
  * 
  */
 @Entity

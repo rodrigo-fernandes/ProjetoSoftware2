@@ -12,7 +12,7 @@ import br.com.project.model.classes.Pais;
 
 /**
  * Responsavel por efetuar a conversão nos combos de campos de pais
- * @author alex
+ * @author Rodrigo
  *
  */
 @FacesConverter(forClass = Pais.class)

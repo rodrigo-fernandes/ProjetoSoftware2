@@ -7,7 +7,7 @@ import org.springframework.stereotype.Controller;
 
 /**
  * Responsavel por interceptar a criação e destruição das sessões
- * @author alex
+ * @author Rodrigo
  *
  */
 @Controller

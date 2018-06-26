@@ -12,7 +12,7 @@ import br.com.project.model.classes.Estado;
 
 /**
  * Responsavel por efetuar a conversão nos combos de campos de estado
- * @author alex
+ * @author Rodrigo
  *
  */
 @FacesConverter(forClass = Estado.class)

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * Usada para estabelecer o ambiente que o projeto está sendo executado(Produção ou teste)
- * @author alex
+ * @author Rodrigo
  *
  */
 public class BeanProperty implements Serializable{

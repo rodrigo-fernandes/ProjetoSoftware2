@@ -12,7 +12,7 @@ import br.com.project.listener.ContextLoaderListenerCaixakiUtils;
 /**
  * Classe que implementa o carregamento preguiçoso (Carregamento por demanda) para os dataTable do primefaces das telas
  * Assim os carregamentos das tabelas quando tiver muitos registros serão sempre rapidos e sem lentidão
- * @author alex
+ * @author Rodrigo
  *
  * @param <T>
  */

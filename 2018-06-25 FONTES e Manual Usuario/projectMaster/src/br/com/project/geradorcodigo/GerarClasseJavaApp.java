@@ -41,7 +41,7 @@ import br.com.srv.interfaces.SrvEntidade;
  * automaticamente Classes, Repositorios, Servicos e Controllers e Daos em seu
  * determinados pacotes
  * 
- * @author alex
+ * @author Rodrigo
  * 
  */
 

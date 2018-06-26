@@ -18,7 +18,7 @@ import org.primefaces.context.RequestContext;
 import br.com.framework.hibernate.session.HibernateUtil;
 /**
  * Responsavel por manipular as execeções em JSF
- * @author alex
+ * @author Rodrigo
  *
  */
 public class CustomExceptionHandler extends ExceptionHandlerWrapper {

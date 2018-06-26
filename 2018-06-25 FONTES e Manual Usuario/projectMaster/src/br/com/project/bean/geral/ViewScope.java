@@ -13,7 +13,7 @@ import org.springframework.web.context.request.FacesRequestAttributes;
 /**
  * Implementação do scopo em view para o spring
  * 
- * @author alex
+ * @author Rodrigo
  * 
  */
 @SuppressWarnings("unchecked")

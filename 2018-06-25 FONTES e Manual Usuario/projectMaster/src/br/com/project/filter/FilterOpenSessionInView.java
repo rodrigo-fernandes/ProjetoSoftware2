@@ -29,7 +29,7 @@ import br.com.project.model.classes.Entidade;
  * Responsavel por iniciar a sessão/transaction do hibernate, iterceptar as
  * requisições/response, commit e rollback.
  * 
- * @author alex
+ * @author Rodrigo
  * 
  */
 @SuppressWarnings("unused")

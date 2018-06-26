@@ -5,7 +5,7 @@ import java.lang.annotation.Target;
 
 /**
  * Annotation para identificar os campos que podem aparecer na pesquisa das telas
- * @author alex
+ * @author Rodrigo
  *
  */
 @Target(value = { java.lang.annotation.ElementType.FIELD })
