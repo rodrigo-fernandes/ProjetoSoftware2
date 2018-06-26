@@ -1,0 +1,17 @@
+127.0.0.1 - - [04/Jun/2018:18:50:54 -0300] "GET / HTTP/1.1" 200 11458
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:29 -0300] "GET /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5566
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:29 -0300] "GET /meuprimeiroprojetojsf/javax.faces.resource/jsf.js.xhtml;jsessionid=FBA4025C656EF9CF985EFC841CC00AE0?ln=javax.faces HTTP/1.1" 200 44385
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:29 -0300] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:33 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml;jsessionid=FBA4025C656EF9CF985EFC841CC00AE0 HTTP/1.1" 200 5477
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:41 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5941
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:43 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5940
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:46 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5947
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:18:51:48 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5478
+127.0.0.1 - - [04/Jun/2018:20:24:28 -0300] "GET / HTTP/1.1" 200 11458
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:24:58 -0300] "GET /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5475
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:24:58 -0300] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:25:04 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5063
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:25:19 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5527
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:25:22 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5527
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:25:24 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5523
+0:0:0:0:0:0:0:1 - - [04/Jun/2018:20:25:26 -0300] "POST /meuprimeiroprojetojsf/primeirapagina.xhtml HTTP/1.1" 200 5065

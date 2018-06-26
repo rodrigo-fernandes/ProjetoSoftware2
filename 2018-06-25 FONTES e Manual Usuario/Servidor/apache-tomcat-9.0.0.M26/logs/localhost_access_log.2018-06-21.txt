@@ -1,0 +1,8 @@
+127.0.0.1 - - [21/Jun/2018:20:26:46 -0300] "GET / HTTP/1.1" 200 11458
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/ HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/publico/login.jsf HTTP/1.1" 200 1947
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/javax.faces.resource/theme.css.jsf?ln=primefaces-aristo HTTP/1.1" 200 45516
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/javax.faces.resource/estilo.css.jsf?ln=css HTTP/1.1" 200 12469
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/javax.faces.resource/logocaixaaqui.png.jsf?ln=img HTTP/1.1" 200 18041
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:53 -0300] "GET /aulasjsfprimefaces/javax.faces.resource/keys.png.jsf?ln=img HTTP/1.1" 200 59952
+0:0:0:0:0:0:0:1 - - [21/Jun/2018:20:26:54 -0300] "GET /favicon.ico HTTP/1.1" 200 21630

@@ -1,0 +1,27 @@
+Banco de Dados:
+- Possuir o Postgres na versão 9.3 ou 9.5 instalado;
+  - Criar um novo banco de dados com a seguinte descrição: rfsistemas
+  - Após criado o banco, restaurar o arquivo: RFSistemas_BancoDados.backup
+  
+Servidor:
+- Possui o "apache-tomcat-9.0.0.M26" configurado na máquina (Apontar para C:\apache-tomcat-9.0.0.M26)
+
+Importanto o projeto:
+- Possui o Eclipse
+  - Version: Oxygen.3a Release (4.7.3a)
+  - Build id: 20180405-1200
+- Possui a versão do java na 1.8
+- Importar o projeto/ arquivo "projectMaster" para dentro do eclise;
+- Após importado clique com o direito e realize as configurações de servidor, versão do java (1.8) e ajuste o projeto para Web (caso não esteja);
+- Configure o projeto dentro do "Servidor";
+- Inicie o servidor e aguarde o mesmo terminar....
+- Após startado o servidor/projeto acesse a url: http://localhost:8080/projectMaster
+
+Obs.: 
+- Para configurar o projeto refefique se a biblioteca JRE System Library está apontando para a jdk que está instalada no C:\ (Verifique no Java Build Path).
+- Etre em "Java Compiler" e altere a versão para 1.8.
+- Entre em "Project Facets" e na aba Runtimes selecione o servidor Apache;
+  - Configure o java para 1.8.
+  - Selecione a opção Dynamic Web Module e a versão 3.0 ou 3.1
+- Clique em Apply and Close.
+
